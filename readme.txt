@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 new Merge Test.Let's try
 It's a masterpiece
 OK
+Let's try dev push
