@@ -8,3 +8,5 @@ new Merge Test.Let's try
 It's a masterpiece
 OK
 Let's try dev push
+It's modified by another one
+
