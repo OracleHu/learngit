@@ -3,4 +3,4 @@ Git is free software under GPL.
 Git is easy to learn and use.
 I like it.
 I like this sunny day.
-This is modified under dev environment
+Creating a new branch is quick AND simple.
